@@ -1,0 +1,8 @@
+Atalhos importantes VSCode
+
+Ctrl + D = Permite a seleção de várias palavras iguais e edição;
+Ctrl + S = salvar as alterações no arquivo
+F2 = Alterar nome de váriável e todas as suas ocorrências
+F12 = leva até a declaração da variável selecionada.
+Ctrl + Shift + k = Apaga a linha em que o cursor se encontra
+Ctrl + ; = permite colocar o código selecionado como comentado ou descomentar
