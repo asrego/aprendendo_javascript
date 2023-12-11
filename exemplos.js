@@ -7,6 +7,8 @@ const segundoNumero = 2;
 
 primeiroNumero = 6;
 
+var a = "A";
+
 for(let i = 0; i<3; i++){
     var x = i+i;
     primeiroNumero += x;
